@@ -1,18 +1,14 @@
 ## Compiled class file
 *.class
 
-
 ## Log file
 *.log
-
 
 ## BlueJ files
 *.ctxt
 
-
 ## Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
 
 ## Package Files #
 *.jar
@@ -23,11 +19,9 @@
 *.tar.gz
 *.rar
 
-
 ## virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-
 
 ## Maven
 target/
@@ -41,7 +35,6 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-
 ## Gradle
 bin/
 build/
@@ -50,7 +43,6 @@ build/
 gradle-app.setting
 !gradle-wrapper.jar
 
-
 ## IntelliJ
 out/
 .idea/
@@ -58,7 +50,6 @@ out/
 *.iml
 *.ipr
 *.iws
-
 
 ## Eclipse
 .settings/
@@ -78,7 +69,6 @@ local.properties
 .factorypath
 .recommenders
 
-
 ## NetBeans
 nbproject/private/
 build/
@@ -88,19 +78,15 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
-
 ## Visual Studio Code
 .vscode/
 .code-workspace
 
-
 ## OS X
 .DS_Store
 
-
 /target/
 !.mvn/wrapper/maven-wrapper.jar
-
 
 ### STS ###
 .apt_generated
@@ -111,22 +97,18 @@ nb-configuration.xml
 .springBeans
 .sts4-cache
 
-
 ## Spring Tools Suite
 .springBeans
-
 
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
 .worksheet
 
-
 ### Git
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
 *.orig
-
 
 # Created by git when using merge tools for conflicts
 *.BACKUP.*
@@ -138,10 +120,8 @@ nb-configuration.xml
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
-
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -149,18 +129,14 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
-
 # Dump file
 *.stackdump
-
 
 # Folder config file
 [Dd]esktop.ini
 
-
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-
 
 # Windows Installer files
 *.cab
@@ -168,7 +144,6 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
 
 # Windows shortcuts
 *.lnk
