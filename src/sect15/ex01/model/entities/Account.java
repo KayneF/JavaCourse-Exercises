@@ -1,6 +1,6 @@
-package sect15.model.entities;
+package sect15.ex01.model.entities;
 
-import sect15.model.exceptions.DomainException;
+import sect15.ex01.model.exceptions.DomainException;
 
 public class Account {
 

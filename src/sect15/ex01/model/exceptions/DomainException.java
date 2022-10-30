@@ -1,4 +1,4 @@
-package sect15.model.exceptions;
+package sect15.ex01.model.exceptions;
 
 public class DomainException extends Exception {
 

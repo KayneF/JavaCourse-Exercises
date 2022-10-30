@@ -1,10 +1,10 @@
-package sect15.application;
+package sect15.ex01.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import sect15.model.entities.Account;
-import sect15.model.exceptions.DomainException;
+import sect15.ex01.model.entities.Account;
+import sect15.ex01.model.exceptions.DomainException;
 
 public class Main {
 
